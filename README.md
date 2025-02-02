@@ -147,7 +147,7 @@ def simulate_flight_path(total_duration, dt, forward_velocity, amplitude, period
     return t, x, z
 ```
 ## Contribute
-What kind of automated flight patterns can you come up with?
+What kind of automated flight patterns can you come up with? Here are the <a href="https://github.com/motoreveries/drone_bob_and_weave/blob/main/CONTRIBUTIONS.md">rules</a>.
 
 ## License
 <b>Public Domain</b>
