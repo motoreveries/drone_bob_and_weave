@@ -2,6 +2,7 @@
 ## An Automated Tactical Evasive Drone Flight Pattern Simulation
  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Nqbevh_5h0jJ0O2MHx5L9A.jpeg">
 Using Python and Matplotlib, I designed and programmed an automated evasive maneuver flight path for a drone to avoid oncoming obstacles. This flight pattern focuses on variable altitude adjustments in combination with forward velocity to make an airborne drone a less vulnerable target to oncoming objects.
+The following procedure will take you through the steps of how to code and run this simulation using your own custom flight paths.
 
 ## Simulated Bob & Weave
  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*lBiTXxZIm7UQrG0NnXEUEg.gif">
